@@ -7,7 +7,7 @@ Español:
 Este repositorio reúne una serie de proyectos de ciencia de datos desarrollados durante mi formación, demostrando habilidades en limpieza, preprocesamiento, análisis y visualización de datos con Python y Jupyter Notebooks. Cada proyecto explora distintos conjuntos de datos para descubrir patrones, aplicar técnicas analíticas y comunicar resultados de forma efectiva mediante visualizaciones claras.
 
 Proyects:
-•	tripleten_videogames
-•	tripleten_instacard
-•	tripleten_megaline
-
+-	tripleten_videogames
+-	tripleten_instacard
+- tripleten_megaline
+- tripleten_zuber 
